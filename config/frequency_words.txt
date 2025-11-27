@@ -4,6 +4,12 @@ A股
 +涨跌
 !预测
 
+日本
+俄罗斯
+乌克兰
+中国
+美国
+
 语文
 物理
 数学
@@ -12,8 +18,19 @@ A股
 政治
 +高考
 
+春节
+感恩节
+元旦
+
 电影
 
+香港
+台湾
+安徽
+江苏
+上海
+
+足球
 体育
 经济
 社会
@@ -23,52 +40,30 @@ A股
 梁其伟
 
 京东
-刘强东
-
 字节
-bytedance
-张一鸣
-
 特斯拉
-马斯克
-
 微软
 Microsoft
-
 英伟达
 NVIDIA
-黄仁勋
-
 AMD
-
 谷歌
 google
 gemini
-deepmind
-
 chatgpt
 openai
 sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
+deepseek
 
 ai
 !gai
 人工智能
 
 自动驾驶
-
 机器人
 
 芯片
 光刻机
-
 科技
 
 核能
